@@ -21,7 +21,7 @@
  }
  /* Estilo desktop */
 body{
-    background-color: #ffffff;
+    background-color: #6d0a0a;
     color: #232323;
 }
 
@@ -31,7 +31,7 @@ header img{
 }
 
 h1{
-    font-size: 80px;
+    font-size: 52px;
     font-family: "unbounded", sans-serif;
     font-weight: bold;
     text-align: center;
